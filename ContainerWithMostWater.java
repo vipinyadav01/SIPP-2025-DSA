@@ -1,4 +1,4 @@
-public class mixWater {
+public class ContainerWithMostWater {
     public int maxArea(int[] height) {
         int maxArea = 0;
                 for (int left = 0; left < height.length; left++) {
