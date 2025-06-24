@@ -1,52 +1,73 @@
-# 💻 SIPP 2025 - Java DSA & LeetCode Practice
+# 🚀 SIPP 2025 - Java DSA & LeetCode Journey
 
-Welcome to my **SIPP 2025** repository! This repo is dedicated to my journey of mastering **Data Structures & Algorithms (DSA)** in **Java**. It includes:
+Welcome to my **SIPP 2025** repository! This space documents my journey mastering **Data Structures & Algorithms** with **Java**.
 
-- 📚 Class notes and solutions from my DSA classes  
-- 💡 Self-practice Java problems by topic  
-- 🧠 LeetCode solutions  
-- 🛠️ Projects and programs created during this learning journey
+## 📋 What's Inside
 
-## 🚀 Getting Started
+- 📚 Comprehensive DSA class notes and implementations
+- 💻 Topic-wise Java practice problems
+- 🏆 LeetCode solutions with explanations
+- 🛠️ Mini-projects showcasing DSA concepts
 
-### Table of Contents
-- [🗂️ Repository Structure](#repository-structure)
-- [📊 Progress Tracker](#progress-tracker)
-- [🔍 Key Topics](#key-topics)
-- [📝 Notes](#notes)
-- [🔗 Resources](#resources)
+## 📑 Navigation
 
-## 🗂️ Repository Structure
+- [📂 Repository Structure](#repository-structure)
+- [📈 Progress Dashboard](#progress-dashboard)
+- [🗺️ Learning Roadmap](#learning-roadmap)
+- [📝 Study Notes](#study-notes)
+- [🔗 Useful Resources](#useful-resources)
+
+## 📂 Repository Structure
+
 ```
-📁 SIPP-2025 DSA/
-├── 📁 Class-Notes/
-├── 📁 Practice-Problems/
+SIPP-2025 DSA - Also LeetCode Question/
+├── 📁 SIPP-2025 DSA/
 │   ├── 📁 Arrays/
+│   ├── 📁 Strings/
 │   ├── 📁 LinkedLists/
 │   └── 📁 Trees/
-├── 📁 LeetCode-Solutions/
-└── 📁 Projects/
+├── 📁 Readme.md/
 ```
 
-## 📊 Progress Tracker
-| Topic | Problems Solved | Confidence Level |
-|-------|----------------|-----------------|
-| Arrays | 0 | 🟡 Medium |
-| Linked Lists | 0 | 🔴 Low |
-| Trees | 0 | 🔴 Low |
+## 📈 Progress Dashboard
 
-## 🔍 Key Topics
-- [x] Arrays & Strings
-- [ ] Linked Lists
-- [ ] Stacks & Queues
-- [ ] Trees & Graphs
-- [ ] Sorting & Searching
-- [ ] Dynamic Programming
+| Topic | Problems Solved | Confidence | Last Practice |
+|-------|----------------|------------|--------------|
+| Arrays & Strings | 0 | 🟡 Medium | YYYY-MM-DD |
+| Linked Lists | 0 | 🔴 Low | - |
+| Trees & Graphs | 0 | 🔴 Low | - |
+| DP & Recursion | 0 | 🔴 Low | - |
 
-## 📝 Notes
-Check out my [detailed notes](./Class-Notes) from lectures and study sessions.
+## 🗺️ Learning Roadmap
 
-## 🔗 Resources
-- [LeetCode Profile](https://leetcode.com/vipinyadav01/)
+- [x] **Fundamentals**
+    - [x] Time & Space Complexity
+    - [x] Java Collections Framework
+
+- [ ] **Core Data Structures**
+    - [ ] Arrays & ArrayLists
+    - [ ] Strings & StringBuilder
+    - [ ] Linked Lists
+    - [ ] Stacks & Queues
+
+- [ ] **Advanced Topics**
+    - [ ] Trees (Binary, BST, AVL)
+    - [ ] Graphs & Graph Algorithms
+    - [ ] Sorting Algorithms
+    - [ ] Dynamic Programming
+
+## 📝 Study Notes
+
+Check out my [detailed notes](./Class-Notes) for key concepts and implementation details.
+
+## 🔗 Useful Resources
+
+- [My LeetCode Profile](https://leetcode.com/vipinyadav01/)
 - [Java Documentation](https://docs.oracle.com/en/java/)
-- [Visualgo - Algorithm Visualization](https://visualgo.net/en)
+- [Visualgo](https://visualgo.net/en) - Algorithm Visualization
+- [NeetCode](https://neetcode.io/) - Curated DSA Problems
+- [Big-O Cheat Sheet](https://www.bigocheatsheet.com/)
+
+---
+
+> *"The more I practice, the luckier I get."*
