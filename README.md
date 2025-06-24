@@ -3,11 +3,8 @@
 Welcome to my **SIPP 2025** repository! This space documents my journey mastering **Data Structures & Algorithms** with **Java**.
 
 ## 📋 What's Inside
-
-- 📚 Comprehensive DSA class notes and implementations
 - 💻 Topic-wise Java practice problems
-- 🏆 LeetCode solutions with explanations
-- 🛠️ Mini-projects showcasing DSA concepts
+- 🏆 LeetCode solutions
 
 ## 📑 Navigation
 
